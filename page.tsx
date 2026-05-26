@@ -196,7 +196,7 @@ export default function HomeServiceWebsite() {
             </select>
 
             <textarea
-              rows="5"
+              rows={5}
               placeholder="Tell us about your project"
               className="w-full border border-gray-300 rounded-2xl px-5 py-4 text-lg"
             ></textarea>
